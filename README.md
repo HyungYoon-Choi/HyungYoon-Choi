@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&section=header&text=Hi!%20I'm%20HyungYoon&fontSize=50&animation=twinkling)
 <p align="center">안녕하세요! 최형윤입니다.</p>
+<a href="mailto:choi26hy@naver.com" align="center">choi26hy@naver.com</a>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />

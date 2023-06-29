@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&section=header&text=Hi!%20I'm%20HyungYoon&fontSize=50&animation=twinkling&margin=0&padding=0)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&section=header&text=Hi!%20I'm%20HyungYoon&fontSize=50&animation=twinkling)
 
 - 	<div align="center">
 		<h1>Skill</h1>
